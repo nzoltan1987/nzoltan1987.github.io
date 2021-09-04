@@ -1,0 +1,4 @@
+Kucuka
+Cicuka
+Kutyika
+Macika
