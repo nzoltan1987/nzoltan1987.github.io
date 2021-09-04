@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Roboto";
+    src: url("fonts/Roboto/Roboto-Bold.ttf");
+    font-weight: 500;
+}
+h3 {color: green; 
+    font-size:40px;
+    font-family: "Roboto";
+    #font-style: italic;
+    text-align: center;
+    text-transform: lowercase;
+    #line-height: normal;
+    #font-weight: lighter;
+}
+img{width: 500px;
+    #height:200px;
+}
